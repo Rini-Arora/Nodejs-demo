@@ -1,0 +1,13 @@
+.layout {
+    /* Add common styles here */
+    font-family: 'Poppins', sans-serif;
+    --webkit-font-smoothing: antialiased;
+    --mox-osx-font-smoothing: grayscale;
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    min-height: 100vh;
+    background: url('./security.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
